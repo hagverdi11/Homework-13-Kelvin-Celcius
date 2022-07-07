@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\bin\Debug\netcoreapp3.1\Implicit Explicit Practice.exe
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\bin\Debug\netcoreapp3.1\Implicit Explicit Practice.deps.json
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\bin\Debug\netcoreapp3.1\Implicit Explicit Practice.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\bin\Debug\netcoreapp3.1\Implicit Explicit Practice.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\bin\Debug\netcoreapp3.1\Implicit Explicit Practice.dll
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\bin\Debug\netcoreapp3.1\Implicit Explicit Practice.pdb
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.dll
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.pdb
+C:\Users\HP\Desktop\Homeworks\Implicit Explicit Practice\Implicit Explicit Practice\Implicit Explicit Practice\obj\Debug\netcoreapp3.1\Implicit Explicit Practice.genruntimeconfig.cache
